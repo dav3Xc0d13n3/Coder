@@ -1,0 +1,6 @@
+{
+  "name": "AI Coding Studio",
+  "description": "A modern AI-powered coding studio, GitHub manager, and developer workspace combining VS Code, GitHub Desktop, and AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
